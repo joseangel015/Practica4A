@@ -1,3 +1,4 @@
+/*programa que define el programa : los métodos a exportar, la versión y la dirección de memoria*/
 struct dupla_int { int a;
 int b;
 };
